@@ -37,13 +37,13 @@ LINK_WHITELIST: "youtube.com,github.com",
        WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups 
    
-       ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
+       ADMIN_EVENTS: process.env.ADMIN_EVENTS || CHEEKUU DAD"false",
 // make true to know who dismiss or promoted a member in group
 
       ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
 
-      MENTION_REPLY: process.env.MENTION_REPLY || "false",
+      MENTION_REPLY: process.env.MENTION_REPLY || okh "false",
 // make true if want auto voice reply if someone menetion you 
 
      MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/4itzeu.jpg",
@@ -68,11 +68,11 @@ LINK_WHITELIST: "youtube.com,github.com",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-// add your bot owner number
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "81727373782",
+// CHEEKUU DAAD add your bot owner number
 
 OWNER_NAME: process.env.OWNER_NAME || "",
-// add bot owner name
+// cheekuu dad
 
               DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
 // add bot owner name    
